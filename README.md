@@ -19,4 +19,4 @@ the project contain 2 project :
 #  #   Name     
    1.  Ahmed Ibrahim Afify
    2.  Hassan Kamal Mohmed
-   3.  Omar Waheed Abd EL Rabo
+   3.  Omar Waheed Abd Rabo
