@@ -1,7 +1,7 @@
 # Java Web Service Application Using Spark To Analyze Wuzzuf DataSet
 the project contain 2 project :
-   1.maven project
    
+   1.maven project
    2.web service project
 
 # The Project Contain Many Services :
